@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_assignmentone/pages/add.dart';
+//import 'package:flutter_assignmentone/pages/login.dart';
 
 void main() {
-  runApp(Myapp());
+  runApp(add());
 }
 
 class Myapp extends StatelessWidget {
